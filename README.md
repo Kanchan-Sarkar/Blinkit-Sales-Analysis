@@ -61,6 +61,6 @@ It empowers managers and analysts to:
   -Plan targeted marketing or expansion strategies based on sales and customer ratings.
 
 6. Screenshot:
-   Example: [Dashboard Preview](https://github.com/Kanchan-Sarkar/Blinkit-Sales-Analysis/blob/main/Blinkit%20Sales%20Analysis%20Dashboard.png)
+   Example: ![Dashboard Preview](https://github.com/Kanchan-Sarkar/Blinkit-Sales-Analysis/blob/main/Blinkit%20Sales%20Analysis%20Dashboard.png)
 
    
